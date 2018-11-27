@@ -1,0 +1,9 @@
+{
+    "ui_map" : {
+        "label" : {
+            "group" : "Group",
+            "size" : "Size",
+            "name" : "Name"
+        }
+    }
+}

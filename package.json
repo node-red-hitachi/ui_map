@@ -1,0 +1,15 @@
+{
+    "name": "node-red-contrib-ui_map",
+    "version": "0.0.1",
+    "description": "Node-RED UI widget node for map display",
+    "main": "ui_map.js",
+    "node-red": {
+        "nodes": {
+            "ui_map": "ui_map.js"
+        }
+    },
+    "keywords": [
+        "node-red",
+        "node-red-dashboard"
+    ]
+}
